@@ -1,0 +1,3 @@
+*.exe
+yolov8n.pt
+build/
