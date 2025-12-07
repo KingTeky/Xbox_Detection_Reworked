@@ -1,4 +1,3 @@
-
 # 🎮 Xbox Color Tracker Enhanced Edition
 
 **Last Updated: July 12, 2025 at 07:22 PM**
@@ -6,6 +5,12 @@
 ---
 
 ## 🎯 Overview
+
+**Ethical Use Notice**
+
+- **Educational Use Only:** This project was created for educational and research purposes to demonstrate computer vision and controller-emulation techniques.
+- **No Cheating:** Using this software to gain an unfair advantage in online games, to bypass anti-cheat systems, or to perform unauthorized actions is strongly discouraged. Cheating can lead to account bans, loss of access, and may have legal consequences.
+- **Responsible Use:** Always respect game terms of service, community rules and the rights of others. Use this code responsibly — for learning, testing with consent, or offline experimentation.
 
 Xbox Color Tracker Enhanced Edition is a sophisticated real-time color detection and tracking application designed for gaming automation and accessibility. It combines advanced computer vision, AI-powered object detection, and virtual controller simulation to create an intelligent gaming assistant with a modern tabbed interface.
 
@@ -400,7 +405,11 @@ All dependencies are automatically bundled in the self-contained executable usin
 
 ### **License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2025 KingTeky (Elieser C.)
+
+Creative Commons Attribution-NonCommercial 4.0 International
+LEGAL CODE
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 ### **Disclaimer**
 
